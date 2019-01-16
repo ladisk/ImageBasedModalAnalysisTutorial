@@ -2,7 +2,6 @@
 
 The tutorial was prepared for the [IMAC XXXVII conference, January 28—31, 2019 in Orlando, Florida](https://sem.org/imacprogram).
 
-The two part tutorial:
 * [Part 1: Tutorial on Image-based Identification of Structural Dynamics](./Image%20Based%20Modal%20Analysis%20Tutorial.ipynb) prepared by: **Klemen Zaletelj, Domen Gorjup and Janko Slavič**, www.ladisk.si, Faculty of Mechanical Engineering, University of Ljubljana
     1. [Basic experimental skills](./Image%20Based%20Modal%20Analysis%20Tutorial.ipynb#Basic-experimental-skills)
     2. [Simplified Optical-flow Method](./Image%20Based%20Modal%20Analysis%20Tutorial.ipynb#Simplified-Optical-flow-Method)
