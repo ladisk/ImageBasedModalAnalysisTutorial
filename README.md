@@ -14,3 +14,4 @@ The tutorial was prepared for the [IMAC XXXVII conference, January 28—31, 2019
     3. [Motion Magnification With Filtering](./Video%20Magnification%20Tutorial.ipynb#Motion-Magnification-With-Filtering)
     4. [Final Remarks](./Video%20Magnification%20Tutorial.ipynb#Final-Remarks)
 
+To execute this tutorial online, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ladisk/ImageBasedModalAnalysisTutorial/master)
