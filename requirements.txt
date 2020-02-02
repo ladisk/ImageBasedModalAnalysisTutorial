@@ -1,0 +1,8 @@
+numpy
+matplotlib
+jupyter
+notebook
+lvm_read
+pyFRF
+pyidi
+pyEMA
