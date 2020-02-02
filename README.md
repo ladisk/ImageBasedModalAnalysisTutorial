@@ -1,6 +1,6 @@
 # A hands-on tutorial on image-based identification of structural dynamics
 
-The tutorial was prepared for the [IMAC XXXVII conference, January 28—31, 2019 in Orlando, Florida](https://sem.org/imacprogram).
+The tutorial was prepared for the [IMAC XXXVIII conference, February 10–13, 2020 in Houston, Texas](https://sem.org/imacprogram) (first version was presented at the IMAC XXXVII conference, January 28—31, 2019 in Orlando, Florida).
 
 * [Part 1: Tutorial on Image-based Experimental Modal Analysis](./Image%20Based%20Experimental%20Modal%20Analysis%20Tutorial.ipynb) prepared by: **Klemen Zaletelj, Domen Gorjup and Janko Slavič**, www.ladisk.si, Faculty of Mechanical Engineering, University of Ljubljana
     1. [Basic experimental skills](./Image%20Based%20Experimental%20Modal%20Analysis%20Tutorial.ipynb#Basic-experimental-skills)
