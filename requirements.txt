@@ -3,6 +3,6 @@ matplotlib
 jupyter
 notebook
 lvm_read
-pyFRF
-pyidi
-pyEMA
+pyFRF>=0.40
+pyidi>=0.21
+pyEMA>=0.22
